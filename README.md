@@ -1,16 +1,102 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**marvus-creator/marvus-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🎤 Compact Rounded Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bf953f,50:fcf6ba,100:b38728&height=100&section=header&text=Hello%20World%20!%20It's%20Malvyn&fontSize=32&fontColor=1a1a1b" />
 
-Here are some ideas to get you started:
+<!-- ⌨️ Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Yo+It's+Malvyn;Hardware+%2B+Software+Combo;Exploring+Full+Stack+Development;Turning+Ideas+Into+Real+Projects" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 🏷️ Focus Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Practical_Tech-D4AF37?style=for-the-badge&labelColor=1a1a1b" />
+</p>
+
+</div>
+
+
+---
+
+## 📊 My Activity Dashboard
+<p align="center">
+
+<!-- 🔥 GitHub Contribution Graph -->
+<a href="https://github.com/marvus-creator">
+  <img src="https://github-contributions.vercel.app/api?username=marvus-creator&theme=gold" />
+</a>
+
+<!-- 🧠 GitHub Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=marvus-creator&label=Profile+Views&color=gold&style=flat" />
+
+<!-- 🏆 GitHub Achievements -->
+<img src="https://github-profile-trophy.vercel.app/?username=marvus-creator&theme=radical&no-frame=true&margin-w=10&row=2&column=3" />
+
+<!-- 📈 GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=marvus-creator&show_icons=true&theme=radical&hide_border=false&title_color=gold&text_color=white&icon_color=gold&include_all_commits=true&count_private=true" />
+
+<!-- 🧪 Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvus-creator&layout=compact&theme=radical&hide_border=false&title_color=gold&text_color=white&langs_count=8" />
+
+</p>
+
+---
+
+## 🧰 Stack & Skillset
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,arduino,github,php,html,css,c,python,java,cpp,mysql,typescript&perline=6" />
+  </a>
+</p>
+
+---
+
+## 👤 Who I Be
+> 💬 *“I don’t just code—I architect the future.”*
+
+- 🛠️ **Current Moves**: Code| Create| Conquer.
+- 🎯 **Mission**: Building smart systems that solve daily problems.
+- 📚 **Leveling Up**: Connecting software logic with physical hardware.
+
+---
+
+## 🏗️ What I’ve Cooked
+| 🔧 Project | 💡 What It Do |
+| :--- | :--- |
+| **Smart Finance Tracker** | Help users track their income and expenses, understand where their money goes, and manage finances better. |
+
+---
+
+## 📱 Hit Me Up
+<p align="center">
+
+<!-- Gmail -->
+<a href="mailto:malvyn304@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=1a1a1b" />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/marvus_333">
+  <img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=1a1a1b" />
+</a>
+
+<!-- Snapchat -->
+<a href="https://www.snapchat.com/add/marvus_333">
+  <img src="https://img.shields.io/badge/Snapchat-D4AF37?style=for-the-badge&logo=snapchat&logoColor=1a1a1b" />
+</a>
+
+<!-- Twitter / X -->
+<a href="https://x.com/marvus333">
+  <img src="https://img.shields.io/badge/Twitter(X)-D4AF37?style=for-the-badge&logo=twitter&logoColor=1a1a1b" />
+</a>
+
+<!-- Phone -->
+<a href="tel:+250781362233">
+  <img src="https://img.shields.io/badge/Call_Me-D4AF37?style=for-the-badge&logo=phone&logoColor=1a1a1b" />
+</a>
+
+</p>
+
+
+</div>
+
+
+
