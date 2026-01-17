@@ -67,11 +67,10 @@
 
 ## 📱 Hit Me Up
 <p align="center">
-
-<!-- Gmail -->
-<a href="mailto:malvyn304@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=1a1a1b" />
-</a>
+<!-- Gmail (opens Gmail compose directly) --> 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=malvyn304@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=1a1a1b" />
+  </a>
 
 <!-- Instagram -->
 <a href="https://instagram.com/marvus333">
