@@ -74,7 +74,7 @@
 </a>
 
 <!-- Instagram -->
-<a href="https://instagram.com/marvus_333">
+<a href="https://instagram.com/marvus333">
   <img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=1a1a1b" />
 </a>
 
