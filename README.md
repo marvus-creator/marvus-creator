@@ -54,10 +54,10 @@
 ---
 
 ## 🏗️ What I’ve Cooked
-| 🔧 Project | 💡 What It Do |
+| 🔧 Projects | 💡 What It Do |
 | :--- | :--- |
 | **Smart Finance Tracker** | Help users track their income and expenses, understand where their money goes, and manage finances better. |
-| **Smart AgriConnect.Rw** | Help users track their income and expenses, understand where their money goes, and manage finances better. |
+| **Smart AgriConnect.Rw** | |
 
 ---
 
