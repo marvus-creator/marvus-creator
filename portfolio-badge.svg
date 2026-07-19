@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="28" role="img" aria-label="CHECK OUT MY PORTFOLIO">
+  <rect width="34" height="28" fill="#1a1a1b"/>
+  <rect x="34" width="216" height="28" fill="#D4AF37"/>
+  <text x="17" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="13" text-anchor="middle">🌍</text>
+  <text x="142" y="18.5" fill="#1a1a1b" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" text-anchor="middle" letter-spacing="1">CHECK OUT MY PORTFOLIO</text>
+</svg>

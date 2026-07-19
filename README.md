@@ -14,7 +14,7 @@
 <!-- 🌍 Portfolio Button -->
 <p align="center">
   <a href="https://marvus-creator.github.io/Malvyns-PORTFOLIO/">
-    <img src="https://img.shields.io/badge/CHECK_OUT_MY_PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=1a1a1b&labelColor=1a1a1b" />
+    <img src="portfolio-badge.svg" height="28" />
   </a>
 </p>
 
