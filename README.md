@@ -69,7 +69,7 @@
 | 🌋 **[SENTINEL](https://github.com/marvus-creator/SENTINEL)** | See disaster coming. Rainfall + 3D terrain fused into flood and landslide early warnings. |
 | 🌿 **[KANOPI](https://github.com/marvus-creator/KANOPI)** | A plant doctor in your pocket. Photograph a leaf, get the disease and treatment in a second — AI running on-device, works offline. |
 | 🚜 **[AgriConnect-RW](https://github.com/marvus-creator/AgriConnect-RW)** | Marketplace connecting farmers, buyers & drivers — MoMo payments, live GPS logistics, USSD for basic phones. |
-| 🌱 **Imbuto** | Fintech platform that turns everyday sales into a credit score that unlocks financing. |
+| 🌱 **[Imbuto](https://github.com/marvus-creator/Imbuto)** | Fintech platform that turns everyday sales into a credit score that unlocks financing. |
 | 💰 **Smart Finance Tracker** | Help users track their income and expenses, understand where their money goes, and manage finances better. |
 | 💼 **[My Portfolio](https://github.com/marvus-creator/Malvyns-PORTFOLIO)** | All of it in one place → [check it live](https://marvus-creator.github.io/Malvyns-PORTFOLIO/) |
 
