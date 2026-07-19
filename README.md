@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/Main_Focus-Practical_Tech-D4AF37?style=for-the-badge&labelColor=1a1a1b" />
 </p>
 
+<!-- 🌍 Portfolio Button -->
+<p align="center">
+  <a href="https://marvus-creator.github.io/Malvyns-PORTFOLIO/">
+    <img src="https://img.shields.io/badge/🌍_CHECK_OUT_MY_PORTFOLIO-bf953f?style=for-the-badge&labelColor=1a1a1b" />
+  </a>
+</p>
+
 </div>
 
 
@@ -76,7 +83,7 @@
   </a>
 
 <!-- Instagram -->
-<a href="https://instagram.com/marvus333">
+<a href="https://instagram.com/itsm4rvus">
   <img src="https://img.shields.io/badge/Instagram-D4AF37?style=for-the-badge&logo=instagram&logoColor=1a1a1b" />
 </a>
 
