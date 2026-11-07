@@ -13,7 +13,7 @@
 
 <!-- 🌍 Portfolio Button -->
 <p align="center">
-  <a href="https://marvus-creator.github.io/Malvyns-PORTFOLIO/">
+  <a href="https://nkusi-malvyn.vercel.app/">
     <img src="portfolio-badge.svg" height="28" />
   </a>
 </p>
@@ -71,7 +71,7 @@
 | 🚜 **[AgriConnect-RW](https://github.com/marvus-creator/AgriConnect-RW)** | Marketplace connecting farmers, buyers & drivers — MoMo payments, live GPS logistics, USSD for basic phones. |
 | 🌱 **[Imbuto](https://github.com/marvus-creator/Imbuto)** | Fintech platform that turns everyday sales into a credit score that unlocks financing. |
 | 💰 **Smart Finance Tracker** | Help users track their income and expenses, understand where their money goes, and manage finances better. |
-| 💼 **[My Portfolio](https://github.com/marvus-creator/Malvyns-PORTFOLIO)** | All of it in one place → [check it live](https://marvus-creator.github.io/Malvyns-PORTFOLIO/) |
+| 💼 **[My Portfolio](https://github.com/marvus-creator/Malvyns-PORTFOLIO)** | All of it in one place → [check it live](https://nkusi-malvyn.vercel.app/) |
 
 ---
 
