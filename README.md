@@ -70,6 +70,15 @@
 | 🌿 **[KANOPI](https://github.com/marvus-creator/KANOPI)** | A plant doctor in your pocket. Photograph a leaf, get the disease and treatment in a second — AI running on-device, works offline. |
 | 🚜 **[AgriConnect-RW](https://github.com/marvus-creator/AgriConnect-RW)** | Marketplace connecting farmers, buyers & drivers — MoMo payments, live GPS logistics, USSD for basic phones. |
 | 🌱 **[Imbuto](https://github.com/marvus-creator/Imbuto)** | Fintech platform that turns everyday sales into a credit score that unlocks financing. |
+| 🌐 **[NEXUS](https://github.com/marvus-creator/NEXUS)** | Your world, your people, your places, your life. Circles, events, planning, learning and a wallet in one personalized platform. |
+| ⏱️ **[Kairo](https://github.com/marvus-creator/Kairo)** | A study OS that tells you exactly what to do right now. Live timetable engine, study plans, focus timer and spaced repetition — works offline. |
+| 🏟️ **[RwaSport](https://rwasport.vercel.app/)** | The home of Rwandan sport. Live scores, fixtures and standings for 20 sports plus the Amashuri school games. Team build with my friends → [check it live](https://rwasport.vercel.app/) |
+| 🧭 **[Tembera Rwanda](https://tembera-rwanda-lyart.vercel.app/)** | Where to? A searchable, map-aware guide to 498 places across Rwanda — eat, stay, explore. Team build with my friends → [check it live](https://tembera-rwanda-lyart.vercel.app/) |
+| 🧯 **[TZW Fire Management](https://github.com/marvus-creator/tzw-fire-management)** | Every extinguisher inspected on time. Inspections, maintenance logs and compliance reports with role-based access → [check it live](https://tzw-fire-management.vercel.app) |
+| 👁️ **[CivicEye](https://github.com/marvus-creator/civiceye)** | Pin a pothole on the map and the city sees it. Upvote heatmaps and an English/Kinyarwanda toggle. |
+| 🌡️ **Aura Greenhouse** | An ESP32 streams temperature and humidity to a live dashboard that switches the fan on when it gets too hot. Hardware + software, team build. |
+| 🕊️ **[PeaceQuest](https://github.com/marvus-creator/PeaceQuest)** | A social-emotional learning game for kids aged 8–14. Play. Understand. Resolve. Grow. |
+| 👟 **[In Their Shoes](https://github.com/marvus-creator/InTheirShoes)** | One-minute empathy stories, a feelings check-in and a private journal. Works offline. |
 | 💰 **Smart Finance Tracker** | Help users track their income and expenses, understand where their money goes, and manage finances better. |
 | 💼 **[My Portfolio](https://github.com/marvus-creator/Malvyns-PORTFOLIO)** | All of it in one place → [check it live](https://nkusi-malvyn.vercel.app/) |
 
